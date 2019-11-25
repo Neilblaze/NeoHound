@@ -48,7 +48,7 @@ python listen.py -s 5
 * If you want to contribute to codes, create pull request
 * If you find any bugs or error, create an issue regarding that.
 
-# Upcoming Easter Egg:
+### Upcoming Easter Egg:
 
 An add-on on lyric visualization system is being added soon :)
 
